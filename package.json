@@ -1,0 +1,22 @@
+{
+  "name": "wd201_l4_task_todolist_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renishsurani/WD201_L4_task_todolist_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renishsurani/WD201_L4_task_todolist_test/issues"
+  },
+  "homepage": "https://github.com/renishsurani/WD201_L4_task_todolist_test#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
